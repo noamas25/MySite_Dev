@@ -1,0 +1,14 @@
+a.btn-border {
+    border: 2px solid #000;
+    border-radius: 0;
+    background: #fff;
+  }
+  
+  a.btn-border:hover {
+    color: #fff;
+    background: #000;
+  }
+
+  .game1{
+    padding: 40px;
+  }

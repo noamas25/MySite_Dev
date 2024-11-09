@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     "sns",
     "todolist",
     "api",
+    "game",
 ]
 
 MIDDLEWARE = [
