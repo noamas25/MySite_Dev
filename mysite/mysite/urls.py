@@ -10,4 +10,5 @@ urlpatterns = [
     path("sns/",include("sns.urls")),
     path("todolist/",include("todolist.urls")),
     path("api/",include("api.urls")),
+    path("game/",include("game.urls")),
 ]
